@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Implementation-Title: Spring Boot Web JSP Example
 Implementation-Version: 1.0
-Built-By: kaios
+Built-By: Thanh Tung
 Implementation-Vendor-Id: org.springframework.boot
 Build-Jdk: 1.8.0_111
 Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
