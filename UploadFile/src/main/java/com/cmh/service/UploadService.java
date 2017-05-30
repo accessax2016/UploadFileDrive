@@ -104,7 +104,7 @@ private static final String APPLICATION_NAME ="Drive API Quickstart";
 		}*/
 		Path rootLocation = null; 
 		com.google.api.services.drive.model.File fileMetadata = new com.google.api.services.drive.model.File();
-		fileMetadata.setName("UPLOAD BY THANHTUNG " + new Date().toString());
+		fileMetadata.setName("UPLOAD BY DINHSA " + new Date().toString());
 		
 		System.out.println("kt" +  filePath.getAbsolutePath());
 		FileContent mediaContent = new FileContent("image/jpeg", filePath.getAbsoluteFile());
